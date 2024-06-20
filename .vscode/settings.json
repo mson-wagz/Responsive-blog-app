@@ -1,0 +1,14 @@
+{
+  "locofyConfig": {
+    "project": "Responsive blogging app",
+    "id": "6673f37a36342c806b391edb",
+    "framework": "html-css",
+    "typescript": false,
+    "styling": "CSS",
+    "unit": "px",
+    "naming": "Kebab Case",
+    "path": "public/",
+    "componentsPath": "c:\\Users\\DirectEd Student\\Documents\\A_WAGZ\\good blog\\src\\components",
+    "screensPath": "c:\\Users\\DirectEd Student\\Documents\\A_WAGZ\\good blog\\src\\pages"
+  }
+}
